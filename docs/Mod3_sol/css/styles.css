@@ -1,0 +1,20 @@
+/********** Base styles **********/
+* {
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+
+#header-nav {
+    background-color: lightblue;
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-brand {
+    padding-top: 25px;
+}
+
+/********** PC Mode **********/
+
+
+/********** Tablet Mode **********/
