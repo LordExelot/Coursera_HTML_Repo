@@ -14,6 +14,27 @@
     padding-top: 25px;
 }
 
+.title {
+    margin: -10px;
+    padding-left: 10px;
+}
+
+.menu-color {
+    background-color: aliceblue;
+}
+
+.textbox {
+    text-overflow: clip;
+    overflow: hidden;
+    background-color: cadetblue;
+    height: 1000px;
+    padding: 10px;
+}
+
+.container {
+    margin: 0%
+}
+
 /********** PC Mode **********/
 
 
