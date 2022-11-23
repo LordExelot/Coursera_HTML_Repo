@@ -23,6 +23,10 @@
     background-color: aliceblue;
 }
 
+.menu-item {
+    border-bottom: 1px solid lightblue;
+}
+
 .textbox {
     text-overflow: clip;
     overflow: hidden;
